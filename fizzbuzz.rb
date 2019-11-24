@@ -3,8 +3,4 @@
 def fizzbuzz(int)
   if 1 + 2 == 3
     puts "Fizz"
-    ifelse 3 + 2 == 5
-      puts "Buzz"
-    else
-      puts "Bad"
 end
